@@ -1,6 +1,6 @@
 <!-- 1. 定制化海报横幅：Alan Chen + AI编译器 & 嵌入式开发 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alan%20Chen&section=header&fontSize=90&fontAlignY=40&animation=twinkling&desc=AI%20compiler%20%26%20Embedded%20dev&descSize=30&descAlignY=60&descAlign=center" alt="Alan Chen - AI compiler & Embedded dev" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alan%20Chen&section=header&fontSize=90&fontAlignY=40&animation=twinkling&desc=AI%20compiler%20%26amp%3B%20Embedded%20dev&descSize=30&descAlignY=60&descAlign=center" alt="Alan Chen - AI compiler & Embedded dev" />
 </p>
 
 <!-- 2. 贪吃蛇动画展示 GitHub 提交频率 -->
